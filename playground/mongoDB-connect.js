@@ -34,3 +34,5 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (err, client) => {
 
     client.close();
 });
+
+//c:\Program Files\MongoDB\Server\3.6\bin>mongod.exe
